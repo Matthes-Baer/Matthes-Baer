@@ -3,6 +3,20 @@
 - 🎯 In 2023 my goal is to start as a professional web/frontend developer.
 - 🌱 I’m currently improving on backend skills relevant for web development projects.
 
+### Find me on other platforms
+<div>
+  <a href="https://www.linkedin.com/in/matthes-b%C3%A4r-68199a256/"><img height="50" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.codingame.com/profile/a3dbd9f4eb4cd67d9377ec73dd9363e76178174"><img height="50" src="https://forum.codingame.com/uploads/default/original/3X/8/0/80dbeb5195f605287fea6abe403a1b8bd96abf17.png" alt="JavaScript" title="JavaScript" /></a>
+</div>
+
+### My publications for freeCodeCamp
+<div>
+  <a href="https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react-redux/">React Unit Test Handbook + Redux Testing Toolkit</a>
+</div>
+<div>
+  <a href="https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/">Routing in Next.js – How to Set Up Dynamic Routing with Pre-Rendering in Next</a>
+</div>
+
 ### My Techstack
   #### Primary
   <div>
