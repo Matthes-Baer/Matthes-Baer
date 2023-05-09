@@ -1,7 +1,7 @@
 ### Hey, I'm Matthes.
 
 - 🎯 In 2023 my goal is to start as a professional web/frontend developer.
-- 🌱 I’m currently adapting to the new Next.js 13 version.
+- 🌱 I’m currently adapting to the new Next.js 13 version as well as improving on some TypeScript logic.
 
 ### Find me on other platforms
 <div>
