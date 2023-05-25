@@ -5,8 +5,8 @@
 
 ### Find me on other platforms
 <div>
-  <a href="https://www.linkedin.com/in/matthes-b%C3%A4r-68199a256/"><img height="50" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.codingame.com/profile/a3dbd9f4eb4cd67d9377ec73dd9363e76178174"><img height="50" src="https://forum.codingame.com/uploads/default/original/3X/8/0/80dbeb5195f605287fea6abe403a1b8bd96abf17.png" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.linkedin.com/in/matthes-b%C3%A4r-68199a256/"><img height="50" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://www.codingame.com/profile/a3dbd9f4eb4cd67d9377ec73dd9363e76178174"><img height="50" src="https://forum.codingame.com/uploads/default/original/3X/8/0/80dbeb5195f605287fea6abe403a1b8bd96abf17.png" alt="CodinGame" title="CodinGame" /></a>
 </div>
 
 ### My publications for freeCodeCamp
