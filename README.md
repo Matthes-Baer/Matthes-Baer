@@ -5,9 +5,9 @@
 
 ### Find me on other platforms
 <div>
-  <a href="https://www.linkedin.com/in/matthes-b%C3%A4r-68199a256/" target="_blank"><img height="50" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" /></a>
-  <a href="https://www.codingame.com/profile/a3dbd9f4eb4cd67d9377ec73dd9363e76178174" target="_blank"><img height="50" src="https://forum.codingame.com/uploads/default/original/3X/8/0/80dbeb5195f605287fea6abe403a1b8bd96abf17.png" alt="CodinGame" title="CodinGame" /></a>
-  <a href="https://platform.entwicklerheld.de/publicprofile/fcaa9abbe1f4908ccfa369e97df66992" target="_blank"><img height="50" src="https://s3.eu-central-1.amazonaws.com/entwicklerheld-mobile-landing-page/eh_plumplori_1200x630.png" alt="EntwicklerHeld" title="EntwicklerHeld" /></a>
+  <a href="https://www.linkedin.com/in/matthes-b%C3%A4r-68199a256/"><img height="50" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://www.codingame.com/profile/a3dbd9f4eb4cd67d9377ec73dd9363e76178174"><img height="50" src="https://forum.codingame.com/uploads/default/original/3X/8/0/80dbeb5195f605287fea6abe403a1b8bd96abf17.png" alt="CodinGame" title="CodinGame" /></a>
+  <a href="https://platform.entwicklerheld.de/publicprofile/fcaa9abbe1f4908ccfa369e97df66992"><img height="50" src="https://s3.eu-central-1.amazonaws.com/entwicklerheld-mobile-landing-page/eh_plumplori_1200x630.png" alt="EntwicklerHeld" title="EntwicklerHeld" /></a>
 </div>
 
 ### My publications for freeCodeCamp
