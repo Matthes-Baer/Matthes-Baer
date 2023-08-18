@@ -14,6 +14,9 @@
 
 ### My publications for freeCodeCamp
 <div>
+  <a href="https://www.freecodecamp.org/news/blender-three-js-react-js/">How to Implement a Blender Model in a React.js Application using Three.js</a>
+</div>
+<div>
   <a href="https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react-redux/">React Unit Test Handbook + Redux Testing Toolkit</a>
 </div>
 <div>
