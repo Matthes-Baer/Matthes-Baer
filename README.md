@@ -1,7 +1,7 @@
 ### Hey, I'm Matthes.
 
 - 🎯 In 2023 my goal is to start as a professional web/frontend developer.
-- 🌱 I’m currently adapting to the new Next.js 13 version as well as improving on some TypeScript logic.
+- 🌱 I’m currently enhancing my coding problem-solving abilities primarily through platforms like Leetcode and CodinGame, actively engaging in competitive coding challenges to further sharpen my skills.
 
 ### Find me on other platforms
 <div>
