@@ -1,7 +1,7 @@
 ### Hey, I'm Matthes.
 
 - 🎯 In 2023 my goal is to start as a professional web/frontend developer.
-- 🌱 I’m currently enhancing my coding problem-solving abilities primarily through platforms like Leetcode and CodinGame, actively engaging in competitive coding challenges to further sharpen my skills. I'm also learning about web security fundamentals on Tryhackme - currently on the "Command Injection" topic.
+- 🌱 I’m currently enhancing my coding problem-solving abilities primarily through platforms like Leetcode and CodinGame, actively engaging in competitive coding challenges to further sharpen my skills (currently focussing on Monotonic Stacks). I'm also learning about web security fundamentals on Tryhackme - currently on the "Command Injection" topic.
 
 ### Find me on other platforms
 <div>
