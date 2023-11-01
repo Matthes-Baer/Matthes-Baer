@@ -1,7 +1,7 @@
 ### Hey, I'm Matthes.
 
 - 🎯 In 2023 my goal is to start as a professional web/frontend developer.
-- 🌱 I’m currently enhancing my Angular framework skills.
+- 🌱 I’m currently enhancing my Next.js skills.
 
 ### Find me on other platforms
 <div>
