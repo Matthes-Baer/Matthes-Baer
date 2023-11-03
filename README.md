@@ -34,7 +34,7 @@
   <div>
     <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next.js" title="Next.js" height="50" style="display:inline-block;">
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React.js" title="React.js" height="50" style="display:inline-block;">
-    
+    <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular" height="50" style="display:inline-block;">
   </div>
   <div>
     <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB" />
