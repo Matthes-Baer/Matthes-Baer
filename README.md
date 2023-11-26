@@ -1,7 +1,7 @@
 ### Hey, I'm Matthes.
 
 - 🎯 In 2023 my goal is to start as a professional web/frontend developer.
-- 🌱 I’m currently enhancing my unit testing skills.
+- 🌱 I’m currently focusing on finding new projects.
 
 ### Find me on other platforms
 <div>
