@@ -1,7 +1,7 @@
 ### Hey, I'm Matthes.
 
 - 🎯 In 2023 my goal is to start as a professional web/frontend developer.
-- 🌱 I’m currently focusing on learning C#.
+- 🌱 I’m currently revisiting some React.js logic.
 
 ### Find me on other platforms
 <div>
