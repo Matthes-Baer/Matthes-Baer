@@ -1,7 +1,6 @@
 ### Hey, I'm Matthes.
 
-- 🎯 In 2023 my goal is to start as a professional web/frontend developer.
-- 🌱 I'm currently learning some Nest.js.
+- 🎯 I'm currently trying to improve in Nest.js with MikroORM.
 
 ### Find me on other platforms
 <div>
