@@ -1,6 +1,6 @@
 ### Hey, I'm Matthes.
 
-- 🎯 I'm currently trying to improve in Nest.js with MikroORM.
+- 🎯 I'm currently trying to improve in Nest.js.
 
 ### Find me on other platforms
 <div>
