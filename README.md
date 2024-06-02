@@ -1,6 +1,6 @@
 ### Hey, I'm Matthes.
 
-- 🎯 I'm currently trying to improve in Nest.js.
+- 🎯 I'm currently trying to improve in Rust.
 
 ### Find me on other platforms
 <div>
