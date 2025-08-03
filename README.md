@@ -1,6 +1,6 @@
 ### Hey, I'm Matthes.
 
-- 🎯 I'm currently trying to improve in Rust.
+- 🎯 I'm currently trying to improve in Go.
 
 <div>
   <a href="https://www.linkedin.com/in/matthes-b%C3%A4r-68199a256/"><img height="51" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" /></a>
