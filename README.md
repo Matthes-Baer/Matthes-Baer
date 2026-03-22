@@ -1,7 +1,5 @@
 ### Hey, I'm Matthes.
 
-- 🎯 I'm currently trying to improve in Go.
-
 <div>
   <a href="https://www.linkedin.com/in/matthes-b%C3%A4r-68199a256/"><img height="51" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://www.codingame.com/profile/a3dbd9f4eb4cd67d9377ec73dd9363e76178174"><img height="50" src="https://coderpad.io/wp-content/uploads/2023/02/CodinGame-by-coderpad-1.png" alt="CodinGame" title="CodinGame" /></a>
